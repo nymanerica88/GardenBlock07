@@ -1,6 +1,6 @@
 #level-1{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 1fr 1fr;
     border:3px dashed rgb(145, 3, 145);
 }
 
